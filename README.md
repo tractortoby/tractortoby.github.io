@@ -1,2 +1,2 @@
-# tractortoby.github.io
+# tobychung.com
 my blog
