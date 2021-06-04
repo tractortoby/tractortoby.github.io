@@ -3,11 +3,11 @@
   <title>Toby Chung</title>
   
   
-  <link href="https://tractortoby.github.io/atom.xml" rel="self"/>
+  <link href="https://tobychung.com/atom.xml" rel="self"/>
   
-  <link href="https://tractortoby.github.io/"/>
+  <link href="https://tobychung.com/"/>
   <updated>2021-06-02T09:38:12.095Z</updated>
-  <id>https://tractortoby.github.io/</id>
+  <id>https://tobychung.com/</id>
   
   <author>
     <name>Toby Chung</name>
@@ -18,8 +18,8 @@
   
   <entry>
     <title>Hello World</title>
-    <link href="https://tractortoby.github.io/2021/06/02/hello-world/"/>
-    <id>https://tractortoby.github.io/2021/06/02/hello-world/</id>
+    <link href="https://tobychung.com/2021/06/02/hello-world/"/>
+    <id>https://tobychung.com/2021/06/02/hello-world/</id>
     <published>2021-06-02T06:10:35.904Z</published>
     <updated>2021-06-02T09:38:12.095Z</updated>
     
@@ -34,7 +34,7 @@
     
     
     
-    <category term="hexo" scheme="https://tractortoby.github.io/tags/hexo/"/>
+    <category term="hexo" scheme="https://tobychung.com/tags/hexo/"/>
     
   </entry>
   
