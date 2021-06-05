@@ -28,7 +28,7 @@
 <meta property="og:description" content="开着拖拉机奔向春天">
 <meta property="og:locale" content="zh_CN">
 <meta property="article:published_time" content="2021-06-02T10:06:11.000Z">
-<meta property="article:modified_time" content="2021-06-02T10:08:15.895Z">
+<meta property="article:modified_time" content="2021-06-05T09:45:43.866Z">
 <meta property="article:author" content="Toby Chung">
 <meta name="twitter:card" content="summary">
 
@@ -196,13 +196,6 @@
 
           </div>
           
-    
-  <div class="comments">
-    <div id="disqus_thread">
-      <noscript>Please enable JavaScript to view the comments powered by Disqus.</noscript>
-    </div>
-  </div>
-  
 
 <script>
   window.addEventListener('tabs:register', () => {
@@ -392,26 +385,6 @@
   }
   // defer loading until the whole page loading is completed
   window.addEventListener('load', loadCount, false);
-</script>
-<script>
-  var disqus_config = function() {
-    this.page.url = "https://tobychung.com/about/index.html";
-    this.page.identifier = "about/index.html";
-    this.page.title = "about";
-    };
-  NexT.utils.loadComments(document.querySelector('#disqus_thread'), () => {
-    if (window.DISQUS) {
-      DISQUS.reset({
-        reload: true,
-        config: disqus_config
-      });
-    } else {
-      var d = document, s = d.createElement('script');
-      s.src = 'https://tobychung-blog.disqus.com/embed.js';
-      s.setAttribute('data-timestamp', '' + +new Date());
-      (d.head || d.body).appendChild(s);
-    }
-  });
 </script>
 
 </body>
