@@ -39,6 +39,6 @@ if (document.getElementById('evanyou')) {
     return (t > h || t < 0) ? y(p) : t
   }
   // document.onclick = evanyou
-  document.ontouchstart = evanyou
+  // document.ontouchstart = evanyou
   evanyou()
 }
